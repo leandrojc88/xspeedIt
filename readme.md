@@ -1,3 +1,10 @@
+# install
+- install nodejs
+- git clone https://github.com/leandrojc88/xspeedIt.git
+- cd xspeedIt
+- node node-solution.js
+- open http://127.0.0.1:8081/
+
 # XspeedIt
 XspeedIt is an imports/exports society, which has robotized its packaging line.
 It wishes to find an algorithm, which enables its robots to optimize the number of packaging boxes used.
